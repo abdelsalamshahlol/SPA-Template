@@ -1,0 +1,26 @@
+{
+  "name": "spa-template",
+  "version": "1.0.0",
+  "description": "This template laverages browser API and allows routing\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[D\u001b[Dprovides basic routing\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D history API and provides basic routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelsalamshahlol/SPA-Template.git"
+  },
+  "keywords": [
+    "SPA",
+    "template"
+  ],
+  "author": "Abdelsalam Shahlol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelsalamshahlol/SPA-Template/issues"
+  },
+  "homepage": "https://github.com/abdelsalamshahlol/SPA-Template#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
